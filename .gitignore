@@ -1,0 +1,7 @@
+server/qr-generator-service/node_modules
+server/qr-generator-service/.env
+
+server/url-shortner-service/node_modules
+server/url-shortner-service/.env
+
+server/api-gateway/node_modules
